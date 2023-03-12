@@ -1,0 +1,10 @@
+C:\Code Project\Form_WaterMark\Form_WaterMark\bin\Debug\Form_WaterMark.exe.config
+C:\Code Project\Form_WaterMark\Form_WaterMark\bin\Debug\Form_WaterMark.exe
+C:\Code Project\Form_WaterMark\Form_WaterMark\bin\Debug\Form_WaterMark.pdb
+C:\Code Project\Form_WaterMark\Form_WaterMark\obj\Debug\Form_WaterMark.csproj.SuggestedBindingRedirects.cache
+C:\Code Project\Form_WaterMark\Form_WaterMark\obj\Debug\Form_WaterMark.Form1.resources
+C:\Code Project\Form_WaterMark\Form_WaterMark\obj\Debug\Form_WaterMark.Properties.Resources.resources
+C:\Code Project\Form_WaterMark\Form_WaterMark\obj\Debug\Form_WaterMark.csproj.GenerateResource.cache
+C:\Code Project\Form_WaterMark\Form_WaterMark\obj\Debug\Form_WaterMark.csproj.CoreCompileInputs.cache
+C:\Code Project\Form_WaterMark\Form_WaterMark\obj\Debug\Form_WaterMark.exe
+C:\Code Project\Form_WaterMark\Form_WaterMark\obj\Debug\Form_WaterMark.pdb
